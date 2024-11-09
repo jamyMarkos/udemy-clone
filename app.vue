@@ -11,6 +11,7 @@
     <Students />
     <FrequentlyBought />
     <InstructorReview />
+    <MoreCourses />
 
 
   </div>

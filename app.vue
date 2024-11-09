@@ -6,6 +6,7 @@
     <CourseFeatures />
     <Companies />
     <CourseContent />
+    <Requirments />
 
 
   </div>

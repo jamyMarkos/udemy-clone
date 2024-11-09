@@ -7,6 +7,7 @@
     <Companies />
     <CourseContent />
     <Requirments />
+    <FeaturedReview />
 
 
   </div>

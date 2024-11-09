@@ -1,4 +1,4 @@
-<!-- components/StudentsAlsoBought.vue -->
+<!-- components/review/Students.vue -->
 <template>
     <div class=" p-4 rounded-lg max-w-screen-lg mx-auto mt-9 mb-8">
         <h2 class="text-xl font-bold mb-4">Students also bought</h2>

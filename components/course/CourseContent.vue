@@ -60,7 +60,7 @@ const sections = ref([
         lectures: [
             { title: "Introduction to the Course", icon: "/logos/video.png", preview: true, duration: "00:34" },
             { title: "Using the Exercise Files", icon: "/logos/video.png", preview: true, duration: "01:06" },
-            { title: "Download Figma for Free", icon: "/icons/download-icon.svg", preview: false, duration: "00:05" }
+            { title: "Download Figma for Free", icon: "/logos/download.png", preview: false, duration: "00:05" }
         ]
     },
     {

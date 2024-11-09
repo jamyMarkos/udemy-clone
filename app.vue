@@ -10,6 +10,7 @@
     <FeaturedReview />
     <Students />
     <FrequentlyBought />
+    <InstructorReview />
 
 
   </div>

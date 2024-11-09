@@ -6,6 +6,6 @@
   </template>
   
   <script setup>
-  // No additional logic is needed here
+ 
   </script>
   

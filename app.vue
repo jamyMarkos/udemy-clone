@@ -9,6 +9,7 @@
     <Requirments />
     <FeaturedReview />
     <Students />
+    <FrequentlyBought />
 
 
   </div>

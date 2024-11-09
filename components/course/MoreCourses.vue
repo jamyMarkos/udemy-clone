@@ -51,7 +51,7 @@
       lectures: "52",
       level: "All Levels",
       price: "$54.99",
-      image: "/logos/caleb.jpg" 
+      image: "./public/logos/caleb.jpg" 
     },
     {
       title: "Learn Photoshop for iPad",
@@ -62,7 +62,7 @@
       lectures: "39",
       level: "All Levels",
       price: "$54.99",
-      image: "/logos/image2.jpg"
+      image: "./public/logos/image2.jpg"
     },
     {
       title: "Icon Design in Adobe XD - From Sketching to Flat Icon...",
@@ -73,7 +73,7 @@
       lectures: "36",
       level: "All Levels",
       price: "$44.99",
-      image: "/logos/imagee4.jpg"
+      image: "./public/logos/imagee4.jpg"
     }
   ]);
   </script>

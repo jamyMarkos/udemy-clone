@@ -10,7 +10,7 @@
           Our Udemy Business collection is a curation of top-rated courses for individuals and organizations to upskill and reach their goals.
         </p>
         
-        <img src="/logos/fresh.jpg" alt="Udemy Icon" class="mx-auto mb-4" />
+        <img src="./public/logos/fresh.jpg" alt="Udemy Icon" class="mx-auto mb-4" />
 
         <!-- Content Sections -->
         <div class="flex flex-col items-center space-y-3 text-gray-600 text-sm">
@@ -35,11 +35,11 @@
         <div class="text-center">
           <p class="text-xs text-gray-600 mb-2 font-semibold">Trusted by organizations of all sizes</p>
           <div class="flex justify-center space-x-3 mb-3">
-            <img src="/logos/nasdaq.png" alt="Nasdaq" class="h-6 grayscale" />
-            <img src="/logos/volkswagen.svg" alt="Volkswagen" class="h-6 grayscale" />
-            <img src="/logos/box-dark.svg" alt="Box" class="h-6 grayscale" />
-            <img src="/logos/netapp-dark.svg" alt="NetApp" class="h-6 grayscale" />
-            <img src="/logos/eventbrite-dark.svg" alt="Eventbrite" class="h-6 grayscale" />
+            <img src="./public/logos/nasdaq.png" alt="Nasdaq" class="h-6 grayscale" />
+            <img src="./public/logos/volkswagen.svg" alt="Volkswagen" class="h-6 grayscale" />
+            <img src="./public/logos/box-dark.svg" alt="Box" class="h-6 grayscale" />
+            <img src="./public/logos/netapp-dark.svg" alt="NetApp" class="h-6 grayscale" />
+            <img src="./public/logos/eventbrite-dark.svg" alt="Eventbrite" class="h-6 grayscale" />
           </div>
           <button class="bg-purple-600 text-white py-2 px-4 rounded-full">Try Udemy Business</button>
         </div>

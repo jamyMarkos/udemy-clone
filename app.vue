@@ -1,4 +1,4 @@
-<!-- app.vue -->
+<!-- App.vue -->
 <template>
   <div>
     <Navbar />
@@ -14,7 +14,8 @@
     <MoreCourses />
     <Footer />
 
-
+    <!-- Import Sticky Header Component -->
+    <StickyHeader />
   </div>
 </template>
 

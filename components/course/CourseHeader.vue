@@ -51,6 +51,7 @@
             </div>
         </div>
     </div>
+    <FixedCard />
 </template>
 
 <script setup>

@@ -8,6 +8,7 @@
     <CourseContent />
     <Requirments />
     <FeaturedReview />
+    <Students />
 
 
   </div>

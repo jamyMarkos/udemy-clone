@@ -1,3 +1,68 @@
+# Udemy Clone
+
+Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+
+<p align="center">
+  <img src="https://github.com/Zel-hub7/udemy_clone/assets/123939543/fc0f4562-55c4-4e30-a784-6004fcb1f0e7" width="250px" alt="Udemy Logo">
+</p>
+<a name="readme-top"></a>
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+  - [🎥 Video Showcase](#video-showcase)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
+
+# 📖 Udemy Clone <a name="about-project"></a>
+
+**Udemy Clone** is a Nuxt-based web application that replicates the core functionality of Udemy, providing a platform where users can browse, enroll in, and view online courses. The project leverages modern frontend technologies and provides a responsive, user-friendly interface.
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+- **Nuxt.js**
+- **Tailwind CSS**
+- **TypeScript**
+
+### Key Features <a name="key-features"></a>
+
+- **Course Catalog**: Browse a variety of courses by category and popularity.
+- **Responsive Design**: Ensures a seamless experience across devices.
+- **Course Playback**: Access course video content with a simple, intuitive player.
+- **User Profiles**: Manage enrolled courses and track progress.
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://your-live-demo-link.com)
+
+## 🎥 Video Showcase <a name="video-showcase"></a>
+
+- [Video Demo Link](https://your-video-demo-link.com)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+### Setup <a name="setup"></a>
+
+In order to use this project.. Clone this repository to your desired folder by pasting this command in your command line interface:
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.

@@ -45,7 +45,7 @@ Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduct
 - **Course Catalog**: Browse a variety of courses by category and popularity.
 - **Responsive Design**: Ensures a seamless experience across devices.
 - **Course Playback**: Access course video content with a simple, intuitive player.
-- **User Profiles**: Manage enrolled courses and track progress.
+- 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
@@ -53,7 +53,7 @@ Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduct
 
 ## 🎥 Video Showcase <a name="video-showcase"></a>
 
-- [Video Demo Link](https://your-video-demo-link.com)
+- [Video Demo Link](https://www.loom.com/share/98440323cc83424da86d3dca5dd0c140?sid=8294a46b-0650-450f-891c-98cf38b01ccf)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

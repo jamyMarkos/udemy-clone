@@ -8,11 +8,12 @@
       </p>
       <div class="flex justify-between items-center space-x-4">
         <!-- Company logos -->
-        <img src="/logos/nasdaq.png" alt="Nasdaq" class="h-8 grayscale" />
-        <img src="/logos/volkswagen.svg" alt="Volkswagen" class="h-10 grayscale" />
-        <img src="/logos/box-dark.svg" alt="Box" class="h-10 grayscale" />
-        <img src="/logos/netapp-dark.svg" alt="NetApp" class="h-10 grayscale" />
-        <img src="/logos/eventbrite-dark.svg" alt="Eventbrite" class="h-10 grayscale" />
+        
+        <img src="./public/logos/nasdaq.png" alt="Nasdaq" class="h-8 grayscale" />
+        <img src="./public/logos/volkswagen.svg" alt="Volkswagen" class="h-10 grayscale" />
+        <img src="./public/logos/box-dark.svg" alt="Box" class="h-10 grayscale" />
+        <img src="./public/logos/netapp-dark.svg" alt="NetApp" class="h-10 grayscale" />
+        <img src="./public/logos/eventbrite-dark.svg" alt="Eventbrite" class="h-10 grayscale" />
       </div>
   
       <!-- BusinessModal Component -->

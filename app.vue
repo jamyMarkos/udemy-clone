@@ -5,6 +5,7 @@
     <CourseHeader />
     <CourseFeatures />
     <Companies />
+    <CourseContent />
 
 
   </div>

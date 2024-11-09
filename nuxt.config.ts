@@ -5,6 +5,13 @@ export default {
 
   css: ['~/assets/css/tailwind.css'],
 
+  components: [
+    {
+      path: '~/components',
+      pathPrefix: false,
+    },
+  ],
+
   postcss: {
     plugins: {
       tailwindcss: {},

@@ -4,6 +4,7 @@
     <Navbar />
     <CourseHeader />
     <CourseFeatures />
+    <Companies />
 
 
   </div>

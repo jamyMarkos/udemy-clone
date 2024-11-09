@@ -3,6 +3,7 @@
   <div>
     <Navbar />
     <CourseHeader />
+    <CourseFeatures />
 
 
   </div>

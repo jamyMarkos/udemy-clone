@@ -2,6 +2,7 @@
 <template>
   <div>
     <Navbar />
+    <CourseHeader />
 
 
   </div>

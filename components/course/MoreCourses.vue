@@ -62,7 +62,7 @@
       lectures: "39",
       level: "All Levels",
       price: "$54.99",
-      image: "/logos/image2.jpg" // Replace with actual image path
+      image: "/logos/image2.jpg"
     },
     {
       title: "Icon Design in Adobe XD - From Sketching to Flat Icon...",
@@ -73,7 +73,7 @@
       lectures: "36",
       level: "All Levels",
       price: "$44.99",
-      image: "/logos/imagee4.jpg" // Replace with actual image path
+      image: "/logos/imagee4.jpg"
     }
   ]);
   </script>

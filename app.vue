@@ -12,6 +12,7 @@
     <FrequentlyBought />
     <InstructorReview />
     <MoreCourses />
+    <Footer />
 
 
   </div>

@@ -2,7 +2,7 @@
 export const courses = [
     {
         title: "Figma UI UX Design Essentials",
-        image: "./public/logos/image2.jpg",
+        image: "/logos/image2.jpg",
         label: "Bestseller",
         hours: "12",
         updated: "9/2024",
@@ -12,7 +12,7 @@ export const courses = [
     },
     {
         title: "Complete Figma Megacourse: UI/UX Design Beginner to Expert",
-        image: "./public/logos/image3.jpeg",
+        image: "/logos/image3.jpeg",
         hours: "41.5",
         updated: "4/2023",
         rating: "4.3",
@@ -21,7 +21,7 @@ export const courses = [
     },
     {
         title: "Figma UI UX Design Advanced",
-        image: "./public/logos/imagee4.jpg",
+        image: "/logos/imagee4.jpg",
         label: "Bestseller",
         hours: "16",
         updated: "4/2024",
@@ -31,7 +31,7 @@ export const courses = [
     },
     {
         title: "Complete Web Design: from Figma to Webflow - 2024 UI",
-        image: "./public/logos/teacher.jpg",
+        image: "/logos/teacher.jpg",
         label: "Bestseller",
         hours: "21.5",
         updated: "11/2024",
@@ -41,7 +41,7 @@ export const courses = [
     },
     {
         title: "Figma HTML CSS JavaScript in Web Design and UI UX Design",
-        image: "./public/logos/image3.jpeg",
+        image: "/logos/image3.jpeg",
         hours: "40",
         updated: "10/2024",
         rating: "4.5",
@@ -50,7 +50,7 @@ export const courses = [
     },
     {
         title: "DESIGN RULES: Principles + Practices for Great UI Design",
-        image: "./public/logos/image3.jpeg",
+        image: "/logos/image3.jpeg",
         label: "Bestseller",
         hours: "5",
         updated: "5/2024",
@@ -60,7 +60,7 @@ export const courses = [
     },
     {
         title: "NEW Figma 2024: Getting started the Beginner to Pro Class",
-        image: "./public/logos/teacher.jpg",
+        image: "/logos/teacher.jpg",
         hours: "5",
         updated: "10/2024",
         rating: "4.7",
@@ -69,7 +69,7 @@ export const courses = [
     },
     {
         title: "Master Figma for Web Design & Freelancing: Learn UI/UX",
-        image: "./public/logos/imagee4.jpg",
+        image: "/logos/imagee4.jpg",
         label: "Highest Rated",
         hours: "12.5",
         updated: "10/2024",

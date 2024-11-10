@@ -5,7 +5,7 @@
   
       <!-- Reviewer Info -->
       <div class="flex items-center mb-4">
-        <img src="./public/logos/review.jpg" alt="Reviewer profile" class="w-16 h-16 rounded-full mr-4" />
+        <img src="/logos/review.jpg" alt="Reviewer profile" class="w-16 h-16 rounded-full mr-4" />
         <div>
           <p class="font-semibold">Thomas R.</p>
           <p class="text-gray-500 text-sm">8 courses • 1 review</p>

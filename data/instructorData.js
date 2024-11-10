@@ -3,7 +3,7 @@ export const instructor = {
     name: "Caleb Kingston",
     title: "User Interface teacher",
     website: "www.appdesigntips.com",
-    image: "./public/logos/caleb.jpg",
+    image: "/logos/caleb.jpg",
     rating: "4.4",
     reviews: "19,676",
     students: "81,718",

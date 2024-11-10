@@ -42,7 +42,7 @@
   const courses = [
     {
       title: "Learn Figma - UI/UX Design Essential Training",
-      image: "./public/logos/teacher.jpg",
+      image: "/logos/teacher.jpg",
       instructor: "Caleb Kingston",
       rating: "4.4",
       enrolled: "16,950",
@@ -50,7 +50,7 @@
     },
     {
       title: "DESIGN RULES: Principles + Practices for Great UI Design",
-      image: "./public/logos/joe-2.jpg",
+      image: "/logos/joe-2.jpg",
       instructor: "Joe Natoli",
       rating: "4.6",
       enrolled: "14,481",
@@ -59,7 +59,7 @@
     },
     {
       title: "UX & Web Design Master Course: Strategy, Design, Development",
-      image: "./public/logos/joe.jpg",
+      image: "/logos/joe.jpg",
       instructor: "Joe Natoli",
       rating: "4.6",
       enrolled: "15,393",

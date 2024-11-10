@@ -9,7 +9,7 @@
       <div class="flex justify-between items-center space-x-4">
         <!-- Company logos -->
         
-        <img src="/logos/nasdaq.png" alt="Nasdaq" class="h-8 grayscale" />
+        <img src="/logos/Nasdaq.png" alt="Nasdaq" class="h-8 grayscale" />
         <img src="/logos/volkswagen.svg" alt="Volkswagen" class="h-10 grayscale" />
         <img src="/logos/box-dark.svg" alt="Box" class="h-10 grayscale" />
         <img src="/logos/netapp-dark.svg" alt="NetApp" class="h-10 grayscale" />
